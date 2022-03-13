@@ -25,3 +25,10 @@ section{
     border-radius: 5px;
     background-image: linear-gradient(blue,to rgb(4, 4, 59)
 }
+.top{
+    background: image(top bg-01.png);
+    
+}
+.top-banner{
+    background-image: url(images/top-bg.png);
+}
